@@ -1,6 +1,6 @@
-# ConnectThruCampus
+# CampusConnect
  
- CampusThruConnect is a full-stack web application designed to help college students discover opportunities and engage with their campus community through a single platform. The application enables students to share events, internships, study resources, and community posts while receiving personalized recommendations based on their interests.
+CampusConnect is a full-stack web application designed to help college students discover opportunities and engage with their campus community through a single platform. The application enables students to share events, internships, study resources, and community posts while receiving personalized recommendations based on their interests.
 
 ## Features
 
