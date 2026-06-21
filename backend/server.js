@@ -8,7 +8,9 @@ connectDB();
 app.use(cors());
 app.use(express.json());
 const authRoutes = require("./routes/authRoutes");
+const eventRoutes = require("./routes/eventRoutes");
 app.use("/api/auth", authRoutes);
+app.use("/api/events", eventRoutes);
 
 
 app.get("/", (req, res) => {
